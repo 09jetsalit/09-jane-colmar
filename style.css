@@ -328,8 +328,15 @@ button{
 }
 
 .container-right{
+    border: 1px solid green;
     width: 40%;
     height: auto;
     margin-left: 24px;
     margin-top: 32px;
+}
+
+.container-thesis1{
+    display: flex;
+    align-items: center;
+    border: 1px solid   orange;
 }
